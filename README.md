@@ -2,10 +2,10 @@
 <h3 align="center">M.Tech (Cyber Physical Systems) @ IIT Jodhpur | Building GenAI & LLM Systems</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/rahul-singh1609" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL">
+  <a href="mailto:rahul9554781945@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -17,7 +17,7 @@
 - 🧠 Working on GenAI, RAG pipelines, and multi-agent systems (LangChain, LangGraph)
 - 🔍 Currently exploring transformer architectures for applied research problems
 - 💼 Targeting GenAI / LLM Engineer roles
-- 📫 Reach me at **YOUR-EMAIL**
+- 📫 Reach me at **rahul9554781945@gmail.com**
 
 ---
 
@@ -34,16 +34,16 @@
 ---
 
 ### 📌 Featured Work
-- **Agentic AI Workspace** — multi-agent orchestration experiments with LangChain/LangGraph
-- **RAG Pipeline Projects** — retrieval-augmented generation systems using LangChain, LangGraph, LangSmith
-- **Network Security (Python)** — ML-based security tooling
+- **[RAG Document Search](https://github.com/123456-raul/RAGDOCUMENTSEARCH)** — retrieval-augmented generation app with a Streamlit UI for querying documents in natural language
+- **[Network Security](https://github.com/123456-raul/networksecurity)** — end-to-end ML pipeline for phishing detection, with MongoDB ingestion and Docker/EC2 deployment
+- **Agentic AI Workspace** — multi-agent orchestration experiments with LangChain/LangGraph *(coming soon)*
 - **Transformer Research** — applied transformer architecture work (thesis-adjacent)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulsingh123456-raul&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=123456-raul&show_icons=true&theme=default" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsingh123456-raul" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123456-raul" />
 </p>
