@@ -1,45 +1,103 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">M.Tech (Cyber Physical Systems) @ IIT Jodhpur | Building GenAI & LLM Systems</h3>
+<div align="center">
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Hi%20There,%20I'm%20Rahul%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=M.Tech%20(Cyber%20Physical%20Systems)%20@%20IIT%20Jodhpur&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+GenAI+%26+LLM+Systems;RAG+Pipelines+%7C+LangChain+%7C+LangGraph;Multi-Agent+Orchestration;Always+Learning+%2C+Always+Shipping" alt="Typing SVG" />
+
+<p>
   <a href="https://www.linkedin.com/in/rahul-singh1609" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rahul9554781945@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=123456-raul&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
 </p>
+
+</div>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Pursuing M.Tech in Cyber Physical Systems at IIT Jodhpur
-- 🧠 Working on GenAI, RAG pipelines, and multi-agent systems (LangChain, LangGraph)
-- 🔍 Currently exploring transformer architectures for applied research problems
-- 💼 Targeting GenAI / LLM Engineer roles
-- 📫 Reach me at **rahul9554781945@gmail.com**
+
+- 🎓 Pursuing **M.Tech in Cyber Physical Systems** at IIT Jodhpur
+- 🧠 Building **GenAI systems** — RAG pipelines, multi-agent workflows with LangChain & LangGraph
+- 🔬 Exploring **transformer architectures** for applied research
+- 💼 Targeting **GenAI / LLM Engineer** roles
+- ⚡ Fun fact: I debug agents more than I sleep
 
 ---
 
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,git,github,aws,azure,flask,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 ---
 
 ### 📌 Featured Work
-- **[RAG Document Search](https://github.com/123456-raul/RAGDOCUMENTSEARCH)** — retrieval-augmented generation app with a Streamlit UI for querying documents in natural language
-- **[Network Security](https://github.com/123456-raul/networksecurity)** — end-to-end ML pipeline for phishing detection, with MongoDB ingestion and Docker/EC2 deployment
-- **Agentic AI Workspace** — multi-agent orchestration experiments with LangChain/LangGraph 
-- **Transformer Research** — applied transformer architecture work (thesis-adjacent)
+
+<table>
+<tr>
+<td width="50%">
+
+**[🤖 Agentic AI Workspace](https://github.com/123456-raul/AgenticAiworkspace)**
+LangGraph agents, debugging, and progressive RAG (Agentic → Corrective → Adaptive)
+
+</td>
+<td width="50%">
+
+**[📄 RAG Document Search](https://github.com/123456-raul/RAGDOCUMENTSEARCH)**
+Streamlit RAG app for natural-language document querying
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[🔐 Network Security](https://github.com/123456-raul/networksecurity)**
+Phishing detection pipeline — MongoDB, Docker, EC2 deployment
+
+</td>
+<td width="50%">
+
+**[⚙️ End-to-End ML Project](https://github.com/123456-raul/mlproject)**
+CatBoost + Flask + Docker + CI/CD, deployed to Azure & AWS
+
+</td>
+</tr>
+</table>
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=123456-raul&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=123456-raul&theme=radical&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123456-raul&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-trophies.vercel.app/?username=123456-raul&theme=radical&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
+</div>
 
 
 
