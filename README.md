@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Hi%20There,%20I'm%20Rahul%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=M.Tech%20(Cyber%20Physical%20Systems)%20@%20IIT%20Jodhpur&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Rahul%20Singh&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=GenAI%20%7C%20LLM%20Engineer%20%7C%20M.Tech%20@%20IIT%20Jodhpur&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+GenAI+%26+LLM+Systems;RAG+Pipelines+%7C+LangChain+%7C+LangGraph;Multi-Agent+Orchestration;Always+Learning+%2C+Always+Shipping" alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+RAG+Pipelines+%26+AI+Agents;LangChain+%2B+LangGraph+%2B+Transformers;Turning+Research+into+Working+Systems;print(%22Hello%2C+World%22)+%E2%86%92+print(%22Hello%2C+GPT%22)" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500">
+
+<br/>
 
 <p>
   <a href="https://www.linkedin.com/in/rahul-singh1609" target="_blank">
@@ -78,13 +86,6 @@ CatBoost + Flask + Docker + CI/CD, deployed to Azure & AWS
 
 ---
 
-
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
-</div>
 
 
 
