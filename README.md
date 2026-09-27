@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=250&section=header&text=Rahul%20Singh&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=GenAI%20%7C%20LLM%20Engineer%20%7C%20M.Tech%20@%20IIT%20Jodhpur&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Rahul%20Singh&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=GenAI%20%7C%20LLM%20Engineer%20%7C%20M.Tech%20@%20IIT%20Jodhpur&descAlignY=55&descSize=20" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&width=650&lines=Building+RAG+Pipelines+%26+AI+Agents;LangChain+%2B+LangGraph+%2B+Transformers;Turning+Research+into+Working+Systems;print(%22Hello%2C+World%22)+%E2%86%92+print(%22Hello%2C+GPT%22)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+RAG+Pipelines+%26+AI+Agents;LangChain+%2B+LangGraph+%2B+Transformers;Turning+Research+into+Working+Systems;print(%22Hello%2C+World%22)+%E2%86%92+print(%22Hello%2C+GPT%22)" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -19,7 +19,7 @@
   <a href="mailto:rahul9554781945@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=123456-raul&style=for-the-badge&color=EF4444&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=123456-raul&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
 </p>
 
 </div>
@@ -85,11 +85,9 @@ CatBoost + Flask + Docker + CI/CD, deployed to Azure & AWS
 </table>
 
 
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
-
 
 
 
