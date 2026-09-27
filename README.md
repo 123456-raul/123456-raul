@@ -36,7 +36,7 @@
 ### 📌 Featured Work
 - **[RAG Document Search](https://github.com/123456-raul/RAGDOCUMENTSEARCH)** — retrieval-augmented generation app with a Streamlit UI for querying documents in natural language
 - **[Network Security](https://github.com/123456-raul/networksecurity)** — end-to-end ML pipeline for phishing detection, with MongoDB ingestion and Docker/EC2 deployment
-- **Agentic AI Workspace** — multi-agent orchestration experiments with LangChain/LangGraph *(coming soon)*
+- **Agentic AI Workspace** — multi-agent orchestration experiments with LangChain/LangGraph 
 - **Transformer Research** — applied transformer architecture work (thesis-adjacent)
 
 ---
