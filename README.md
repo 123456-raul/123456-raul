@@ -78,20 +78,7 @@ CatBoost + Flask + Docker + CI/CD, deployed to Azure & AWS
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=123456-raul&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=123456-raul&theme=radical&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123456-raul&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-trophies.vercel.app/?username=123456-raul&theme=radical&no-frame=true&row=1&column=6" />
-</div>
 
 ---
 
